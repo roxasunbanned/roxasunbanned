@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm roxasunbanned (Jay) ✌</h1>
 
-<!--
-**roxasunbanned/roxasunbanned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jay-rox/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+### About me:
+I am a developer, I enjoy making mods for video games, speedrunning and learning new web development stacks.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently using:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,nodejs,react,js,laravel,wordpress,html,css,scss,python,gulp,git,vscode)](https://skillicons.dev)
+
+### Education:
+📚 Self taught / Trial by fire
+
+### Other Socials
+🏃🏻‍♀ [Speedrun.com](https://www.speedrun.com/users/roxasunbanned)
+📺 [Twitch.tv](https://www.twitch.tv/roxasunbanned)
+🎮 [Steam](https://steamcommunity.com/id/roxasunbanned/)
+💬 Discord: roxasunbanned
