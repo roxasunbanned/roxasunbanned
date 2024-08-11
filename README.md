@@ -13,7 +13,7 @@ I am a developer, I enjoy making mods for video games, speedrunning and learning
 📚 Self taught / Trial by fire
 
 ### Other Socials
-🏃🏻‍♀ [Speedrun.com](https://www.speedrun.com/users/roxasunbanned)
-📺 [Twitch.tv](https://www.twitch.tv/roxasunbanned)
-🎮 [Steam](https://steamcommunity.com/id/roxasunbanned/)
-💬 Discord: roxasunbanned
+- 🏃🏻‍♀ [Speedrun.com](https://www.speedrun.com/users/roxasunbanned)
+- 📺 [Twitch.tv](https://www.twitch.tv/roxasunbanned)
+- 🎮 [Steam](https://steamcommunity.com/id/roxasunbanned/)
+- 💬 Discord: roxasunbanned
