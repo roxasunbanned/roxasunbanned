@@ -13,6 +13,10 @@ I enjoy making mods for video games, speedrunning and learning new web developme
 ### Education:
 📚 Self taught / Trial by fire
 
+### Guides
+- [FF8 No Junction / No Level (Google Guide)](https://docs.google.com/document/d/1lP1JJq1OsdQgBbLfQeo5Z9ZFCog1RJGopGGxrY__Lic/edit?usp=sharing)
+- [FF8 No Junction / No Level (Steam Guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=3292381192)
+
 ### Other Socials
 - 🏃🏻‍♀ [Speedrun.com](https://www.speedrun.com/users/roxasunbanned)
 - 📺 [Twitch.tv](https://www.twitch.tv/roxasunbanned)
