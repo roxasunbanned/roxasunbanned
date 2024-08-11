@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/jay-rox/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 ### About me:
-I am a developer, I enjoy making mods for video games, speedrunning and learning new web development stacks.
+I am a bad developer. 
+I enjoy making mods for video games, speedrunning and learning new web development stacks.
 
 
 ### Currently using:
