@@ -8,7 +8,7 @@ I enjoy making mods for video games, speedrunning and learning new web developme
 
 ### Currently using:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,nodejs,react,js,laravel,wordpress,html,css,scss,python,gulp,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,nodejs,react,js,laravel,wordpress,html,css,scss,python,gulp,git,vscode)](https://skillicons.dev)
 
 ### Education:
 📚 Self taught / Trial by fire
